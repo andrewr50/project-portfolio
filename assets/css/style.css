@@ -1,0 +1,27 @@
+/* :root {
+    --backgroundColor: #B7D5D4;
+    --secondaryColor: #305252;
+} */
+
+body {
+    background-color: var(--backgroundColor);
+}
+
+#profilePic {
+    max-height: 350px;
+
+}
+
+nav {
+    background-color: var(--backgroundColor);
+}
+
+
+
+div {
+    background-color: var(--secondaryColor);
+}
+
+h2 {
+    color: #fff;
+}
